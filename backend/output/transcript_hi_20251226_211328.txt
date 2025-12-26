@@ -1,0 +1,13 @@
+Language: Hindi (hi)
+Confidence: 0.84
+Timestamp: 2025-12-26 21:13:28
+------------------------------------------------------------
+
+Aloo, my name is Sasi Khan Shukla I am a built-in student at this IS College of Technology
+
+------------------------------------------------------------
+
+Segments:
+
+[0.00s - 2.00s] Aloo, my name is Sasi Khan Shukla
+[3.00s - 8.00s] I am a built-in student at this IS College of Technology

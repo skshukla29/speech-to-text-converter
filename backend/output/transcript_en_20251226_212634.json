@@ -1,0 +1,13 @@
+{
+  "language": "en",
+  "language_name": "English",
+  "text": "Hello my name is Sasi Khan Chukla.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Hello my name is Sasi Khan Chukla."
+    }
+  ],
+  "confidence": 0.91
+}

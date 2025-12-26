@@ -1,0 +1,18 @@
+{
+  "language": "hi",
+  "language_name": "Hindi",
+  "text": "Aloo, my name is Sasi Khan Shukla I am a built-in student at this IS College of Technology",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Aloo, my name is Sasi Khan Shukla"
+    },
+    {
+      "start": 3.0,
+      "end": 8.0,
+      "text": "I am a built-in student at this IS College of Technology"
+    }
+  ],
+  "confidence": 0.84
+}

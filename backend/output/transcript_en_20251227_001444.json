@@ -1,0 +1,364 @@
+{
+  "language": "en",
+  "language_name": "English",
+  "raw_text": "Hello, my name is Shashi Kansukula. I am currently a third year Biltek student in computer science and engineering at IS College of Technology Bhopal, originally from Riva. Madhya Pradesh, I am completed my schooling at Mansroor Public School Bhopal. I have strong expertise in Python Java, C, C++, HTML, CSS, JavaScript, React.js, Node.js, and Express.js, along with practical experience using GitHub and VS Code. I am quick to adapt to new frameworks and doles like Next.js and TypeScript and React, Native and FF, M-T-E-G, and enjoy breaking down complex projects into clear, active, actionable steps. My professional journey includes internships as a Java programming intern at Kodalpha and a web developer intern at Kodik Technologies, where I honed my skills in applications, development, responsive designs and meditory. Beyond academics, I am passionate and about building into intech projects such as speech to text converter and NLP pipelines experimentally with AI assistants for workflow automations and contributing to open source projects. My short term goals include developing a robust speech to text converter using Whisper and NLP libraries, mastering FF from PNG for audio, pre-processing and AI tools for rapid prototyping. I see myself as a productive and detailed, driven builder who on step-by-step learning practical outcomes and real world impact.",
+  "corrected_text": "Hello, my name is Shashi Kansukula. I am currently a third year Biltek student in computer science and engineering at IS College of Technology Bhopal, originally from Riva. Madhya Pradesh, I am completed my schooling at Mansroor Public School Bhopal. I have strong expertise in Python Java, C, C++, HTML, CSS, JavaScript, React. Js, Node. Js, and Express. Js, along with practical experience using GitHub and VS Code. I am quick to adapt to new frameworks and doles Next. Js and TypeScript and React, Native and FF, M-T-E-G, and enjoy breaking down complex projects into clear, active, actionable steps. My professional journey includes internships as a Java programming intern at Kodalpha and a web developer intern at Kodik Technologies, where I honed my skills in applications, development, responsive designs and meditory. Beyond academics, I am passionate and about building into intech projects such as speech to text converter and NLP pipelines experimentally with AI assistants for workflow automations and contributing to open source projects. My short term goals include developing a robust speech to text converter using Whisper and NLP libraries, mastering FF from PNG for audio, pre-processing and AI tools for rapid prototyping. I see myself as a productive and detailed, driven builder who on step-by-step learning practical outcomes and real world impact.",
+  "text": "Hello, my name is Shashi Kansukula. I am currently a third year Biltek student in computer science and engineering at IS College of Technology Bhopal, originally from Riva. Madhya Pradesh, I am completed my schooling at Mansroor Public School Bhopal. I have strong expertise in Python Java, C, C++, HTML, CSS, JavaScript, React. Js, Node. Js, and Express. Js, along with practical experience using GitHub and VS Code. I am quick to adapt to new frameworks and doles Next. Js and TypeScript and React, Native and FF, M-T-E-G, and enjoy breaking down complex projects into clear, active, actionable steps. My professional journey includes internships as a Java programming intern at Kodalpha and a web developer intern at Kodik Technologies, where I honed my skills in applications, development, responsive designs and meditory. Beyond academics, I am passionate and about building into intech projects such as speech to text converter and NLP pipelines experimentally with AI assistants for workflow automations and contributing to open source projects. My short term goals include developing a robust speech to text converter using Whisper and NLP libraries, mastering FF from PNG for audio, pre-processing and AI tools for rapid prototyping. I see myself as a productive and detailed, driven builder who on step-by-step learning practical outcomes and real world impact.",
+  "raw_segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "Hello, my name is Shashi Kansukula."
+    },
+    {
+      "start": 3.84,
+      "end": 10.36,
+      "text": "I am currently a third year Biltek student in computer science and engineering at IS College"
+    },
+    {
+      "start": 10.36,
+      "end": 13.16,
+      "text": "of Technology Bhopal, originally from Riva."
+    },
+    {
+      "start": 13.16,
+      "end": 18.48,
+      "text": "Madhya Pradesh, I am completed my schooling at Mansroor Public School Bhopal."
+    },
+    {
+      "start": 18.48,
+      "end": 28.32,
+      "text": "I have strong expertise in Python Java, C, C++, HTML, CSS, JavaScript, React.js, Node.js,"
+    },
+    {
+      "start": 28.32,
+      "end": 34.28,
+      "text": "and Express.js, along with practical experience using GitHub and VS Code."
+    },
+    {
+      "start": 34.28,
+      "end": 43.8,
+      "text": "I am quick to adapt to new frameworks and doles like Next.js and TypeScript and React, Native"
+    },
+    {
+      "start": 43.8,
+      "end": 54.16,
+      "text": "and FF, M-T-E-G, and enjoy breaking down complex projects into clear, active, actionable"
+    },
+    {
+      "start": 54.16,
+      "end": 55.56,
+      "text": "steps."
+    },
+    {
+      "start": 55.56,
+      "end": 61.800000000000004,
+      "text": "My professional journey includes internships as a Java programming intern at Kodalpha and"
+    },
+    {
+      "start": 61.800000000000004,
+      "end": 71.36,
+      "text": "a web developer intern at Kodik Technologies, where I honed my skills in applications, development,"
+    },
+    {
+      "start": 71.36,
+      "end": 74.16,
+      "text": "responsive designs and meditory."
+    },
+    {
+      "start": 74.16,
+      "end": 82.64,
+      "text": "Beyond academics, I am passionate and about building into intech projects such as speech"
+    },
+    {
+      "start": 82.64,
+      "end": 94.12,
+      "text": "to text converter and NLP pipelines experimentally with AI assistants for workflow automations and"
+    },
+    {
+      "start": 94.12,
+      "end": 97.4,
+      "text": "contributing to open source projects."
+    },
+    {
+      "start": 97.4,
+      "end": 106.36,
+      "text": "My short term goals include developing a robust speech to text converter using Whisper"
+    },
+    {
+      "start": 106.36,
+      "end": 120.64,
+      "text": "and NLP libraries, mastering FF from PNG for audio, pre-processing and AI tools for"
+    },
+    {
+      "start": 120.64,
+      "end": 122.64,
+      "text": "rapid prototyping."
+    },
+    {
+      "start": 122.64,
+      "end": 132.44,
+      "text": "I see myself as a productive and detailed, driven builder who on step-by-step learning"
+    },
+    {
+      "start": 132.44,
+      "end": 135.44,
+      "text": "practical outcomes and real world impact."
+    }
+  ],
+  "corrected_segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "Hello, my name is Shashi Kansukula.",
+      "raw_text": "Hello, my name is Shashi Kansukula."
+    },
+    {
+      "start": 3.84,
+      "end": 10.36,
+      "text": "I am currently a third year Biltek student in computer science and engineering at IS College.",
+      "raw_text": "I am currently a third year Biltek student in computer science and engineering at IS College"
+    },
+    {
+      "start": 10.36,
+      "end": 13.16,
+      "text": "Of Technology Bhopal, originally from Riva.",
+      "raw_text": "of Technology Bhopal, originally from Riva."
+    },
+    {
+      "start": 13.16,
+      "end": 18.48,
+      "text": "Madhya Pradesh, I am completed my schooling at Mansroor Public School Bhopal.",
+      "raw_text": "Madhya Pradesh, I am completed my schooling at Mansroor Public School Bhopal."
+    },
+    {
+      "start": 18.48,
+      "end": 28.32,
+      "text": "I have strong expertise in Python Java, C, C++, HTML, CSS, JavaScript, React. Js, Node. Js,.",
+      "raw_text": "I have strong expertise in Python Java, C, C++, HTML, CSS, JavaScript, React.js, Node.js,"
+    },
+    {
+      "start": 28.32,
+      "end": 34.28,
+      "text": "And Express. Js, along with practical experience using GitHub and VS Code.",
+      "raw_text": "and Express.js, along with practical experience using GitHub and VS Code."
+    },
+    {
+      "start": 34.28,
+      "end": 43.8,
+      "text": "I am quick to adapt to new frameworks and doles Next. Js and TypeScript and React, Native.",
+      "raw_text": "I am quick to adapt to new frameworks and doles like Next.js and TypeScript and React, Native"
+    },
+    {
+      "start": 43.8,
+      "end": 54.16,
+      "text": "And FF, M-T-E-G, and enjoy breaking down complex projects into clear, active, actionable.",
+      "raw_text": "and FF, M-T-E-G, and enjoy breaking down complex projects into clear, active, actionable"
+    },
+    {
+      "start": 54.16,
+      "end": 55.56,
+      "text": "Steps.",
+      "raw_text": "steps."
+    },
+    {
+      "start": 55.56,
+      "end": 61.800000000000004,
+      "text": "My professional journey includes internships as a Java programming intern at Kodalpha and.",
+      "raw_text": "My professional journey includes internships as a Java programming intern at Kodalpha and"
+    },
+    {
+      "start": 61.800000000000004,
+      "end": 71.36,
+      "text": "A web developer intern at Kodik Technologies, where I honed my skills in applications, development,.",
+      "raw_text": "a web developer intern at Kodik Technologies, where I honed my skills in applications, development,"
+    },
+    {
+      "start": 71.36,
+      "end": 74.16,
+      "text": "Responsive designs and meditory.",
+      "raw_text": "responsive designs and meditory."
+    },
+    {
+      "start": 74.16,
+      "end": 82.64,
+      "text": "Beyond academics, I am passionate and about building into intech projects such as speech.",
+      "raw_text": "Beyond academics, I am passionate and about building into intech projects such as speech"
+    },
+    {
+      "start": 82.64,
+      "end": 94.12,
+      "text": "To text converter and NLP pipelines experimentally with AI assistants for workflow automations and.",
+      "raw_text": "to text converter and NLP pipelines experimentally with AI assistants for workflow automations and"
+    },
+    {
+      "start": 94.12,
+      "end": 97.4,
+      "text": "Contributing to open source projects.",
+      "raw_text": "contributing to open source projects."
+    },
+    {
+      "start": 97.4,
+      "end": 106.36,
+      "text": "My short term goals include developing a robust speech to text converter using Whisper.",
+      "raw_text": "My short term goals include developing a robust speech to text converter using Whisper"
+    },
+    {
+      "start": 106.36,
+      "end": 120.64,
+      "text": "And NLP libraries, mastering FF from PNG for audio, pre-processing and AI tools for.",
+      "raw_text": "and NLP libraries, mastering FF from PNG for audio, pre-processing and AI tools for"
+    },
+    {
+      "start": 120.64,
+      "end": 122.64,
+      "text": "Rapid prototyping.",
+      "raw_text": "rapid prototyping."
+    },
+    {
+      "start": 122.64,
+      "end": 132.44,
+      "text": "I see myself as a productive and detailed, driven builder who on step-by-step learning.",
+      "raw_text": "I see myself as a productive and detailed, driven builder who on step-by-step learning"
+    },
+    {
+      "start": 132.44,
+      "end": 135.44,
+      "text": "Practical outcomes and real world impact.",
+      "raw_text": "practical outcomes and real world impact."
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "Hello, my name is Shashi Kansukula.",
+      "raw_text": "Hello, my name is Shashi Kansukula."
+    },
+    {
+      "start": 3.84,
+      "end": 10.36,
+      "text": "I am currently a third year Biltek student in computer science and engineering at IS College.",
+      "raw_text": "I am currently a third year Biltek student in computer science and engineering at IS College"
+    },
+    {
+      "start": 10.36,
+      "end": 13.16,
+      "text": "Of Technology Bhopal, originally from Riva.",
+      "raw_text": "of Technology Bhopal, originally from Riva."
+    },
+    {
+      "start": 13.16,
+      "end": 18.48,
+      "text": "Madhya Pradesh, I am completed my schooling at Mansroor Public School Bhopal.",
+      "raw_text": "Madhya Pradesh, I am completed my schooling at Mansroor Public School Bhopal."
+    },
+    {
+      "start": 18.48,
+      "end": 28.32,
+      "text": "I have strong expertise in Python Java, C, C++, HTML, CSS, JavaScript, React. Js, Node. Js,.",
+      "raw_text": "I have strong expertise in Python Java, C, C++, HTML, CSS, JavaScript, React.js, Node.js,"
+    },
+    {
+      "start": 28.32,
+      "end": 34.28,
+      "text": "And Express. Js, along with practical experience using GitHub and VS Code.",
+      "raw_text": "and Express.js, along with practical experience using GitHub and VS Code."
+    },
+    {
+      "start": 34.28,
+      "end": 43.8,
+      "text": "I am quick to adapt to new frameworks and doles Next. Js and TypeScript and React, Native.",
+      "raw_text": "I am quick to adapt to new frameworks and doles like Next.js and TypeScript and React, Native"
+    },
+    {
+      "start": 43.8,
+      "end": 54.16,
+      "text": "And FF, M-T-E-G, and enjoy breaking down complex projects into clear, active, actionable.",
+      "raw_text": "and FF, M-T-E-G, and enjoy breaking down complex projects into clear, active, actionable"
+    },
+    {
+      "start": 54.16,
+      "end": 55.56,
+      "text": "Steps.",
+      "raw_text": "steps."
+    },
+    {
+      "start": 55.56,
+      "end": 61.800000000000004,
+      "text": "My professional journey includes internships as a Java programming intern at Kodalpha and.",
+      "raw_text": "My professional journey includes internships as a Java programming intern at Kodalpha and"
+    },
+    {
+      "start": 61.800000000000004,
+      "end": 71.36,
+      "text": "A web developer intern at Kodik Technologies, where I honed my skills in applications, development,.",
+      "raw_text": "a web developer intern at Kodik Technologies, where I honed my skills in applications, development,"
+    },
+    {
+      "start": 71.36,
+      "end": 74.16,
+      "text": "Responsive designs and meditory.",
+      "raw_text": "responsive designs and meditory."
+    },
+    {
+      "start": 74.16,
+      "end": 82.64,
+      "text": "Beyond academics, I am passionate and about building into intech projects such as speech.",
+      "raw_text": "Beyond academics, I am passionate and about building into intech projects such as speech"
+    },
+    {
+      "start": 82.64,
+      "end": 94.12,
+      "text": "To text converter and NLP pipelines experimentally with AI assistants for workflow automations and.",
+      "raw_text": "to text converter and NLP pipelines experimentally with AI assistants for workflow automations and"
+    },
+    {
+      "start": 94.12,
+      "end": 97.4,
+      "text": "Contributing to open source projects.",
+      "raw_text": "contributing to open source projects."
+    },
+    {
+      "start": 97.4,
+      "end": 106.36,
+      "text": "My short term goals include developing a robust speech to text converter using Whisper.",
+      "raw_text": "My short term goals include developing a robust speech to text converter using Whisper"
+    },
+    {
+      "start": 106.36,
+      "end": 120.64,
+      "text": "And NLP libraries, mastering FF from PNG for audio, pre-processing and AI tools for.",
+      "raw_text": "and NLP libraries, mastering FF from PNG for audio, pre-processing and AI tools for"
+    },
+    {
+      "start": 120.64,
+      "end": 122.64,
+      "text": "Rapid prototyping.",
+      "raw_text": "rapid prototyping."
+    },
+    {
+      "start": 122.64,
+      "end": 132.44,
+      "text": "I see myself as a productive and detailed, driven builder who on step-by-step learning.",
+      "raw_text": "I see myself as a productive and detailed, driven builder who on step-by-step learning"
+    },
+    {
+      "start": 132.44,
+      "end": 135.44,
+      "text": "Practical outcomes and real world impact.",
+      "raw_text": "practical outcomes and real world impact."
+    }
+  ],
+  "confidence": 0.83,
+  "nlp_corrections": {
+    "corrections_made": [
+      "Removed 1 filler words",
+      "Fixed capitalization",
+      "Fixed spacing"
+    ],
+    "filler_words_removed": [
+      "like"
+    ]
+  }
+}

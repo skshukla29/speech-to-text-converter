@@ -1,0 +1,31 @@
+Language: English (en)
+Confidence: 0.83
+Timestamp: 2025-12-27 00:14:44
+------------------------------------------------------------
+
+Hello, my name is Shashi Kansukula. I am currently a third year Biltek student in computer science and engineering at IS College of Technology Bhopal, originally from Riva. Madhya Pradesh, I am completed my schooling at Mansroor Public School Bhopal. I have strong expertise in Python Java, C, C++, HTML, CSS, JavaScript, React. Js, Node. Js, and Express. Js, along with practical experience using GitHub and VS Code. I am quick to adapt to new frameworks and doles Next. Js and TypeScript and React, Native and FF, M-T-E-G, and enjoy breaking down complex projects into clear, active, actionable steps. My professional journey includes internships as a Java programming intern at Kodalpha and a web developer intern at Kodik Technologies, where I honed my skills in applications, development, responsive designs and meditory. Beyond academics, I am passionate and about building into intech projects such as speech to text converter and NLP pipelines experimentally with AI assistants for workflow automations and contributing to open source projects. My short term goals include developing a robust speech to text converter using Whisper and NLP libraries, mastering FF from PNG for audio, pre-processing and AI tools for rapid prototyping. I see myself as a productive and detailed, driven builder who on step-by-step learning practical outcomes and real world impact.
+
+------------------------------------------------------------
+
+Segments:
+
+[0.00s - 3.84s] Hello, my name is Shashi Kansukula.
+[3.84s - 10.36s] I am currently a third year Biltek student in computer science and engineering at IS College.
+[10.36s - 13.16s] Of Technology Bhopal, originally from Riva.
+[13.16s - 18.48s] Madhya Pradesh, I am completed my schooling at Mansroor Public School Bhopal.
+[18.48s - 28.32s] I have strong expertise in Python Java, C, C++, HTML, CSS, JavaScript, React. Js, Node. Js,.
+[28.32s - 34.28s] And Express. Js, along with practical experience using GitHub and VS Code.
+[34.28s - 43.80s] I am quick to adapt to new frameworks and doles Next. Js and TypeScript and React, Native.
+[43.80s - 54.16s] And FF, M-T-E-G, and enjoy breaking down complex projects into clear, active, actionable.
+[54.16s - 55.56s] Steps.
+[55.56s - 61.80s] My professional journey includes internships as a Java programming intern at Kodalpha and.
+[61.80s - 71.36s] A web developer intern at Kodik Technologies, where I honed my skills in applications, development,.
+[71.36s - 74.16s] Responsive designs and meditory.
+[74.16s - 82.64s] Beyond academics, I am passionate and about building into intech projects such as speech.
+[82.64s - 94.12s] To text converter and NLP pipelines experimentally with AI assistants for workflow automations and.
+[94.12s - 97.40s] Contributing to open source projects.
+[97.40s - 106.36s] My short term goals include developing a robust speech to text converter using Whisper.
+[106.36s - 120.64s] And NLP libraries, mastering FF from PNG for audio, pre-processing and AI tools for.
+[120.64s - 122.64s] Rapid prototyping.
+[122.64s - 132.44s] I see myself as a productive and detailed, driven builder who on step-by-step learning.
+[132.44s - 135.44s] Practical outcomes and real world impact.
