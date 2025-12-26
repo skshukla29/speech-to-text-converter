@@ -1,5 +1,6 @@
 import React, { useState, useRef } from 'react';
 import './LiveRecording.css';
+import { startLiveRecording } from '../api';
 
 const LiveRecording = ({ setRawTranscript: setParentRaw, setCorrectedTranscript: setParentCorrected, setDetectedLanguage: setParentLanguage, setTranslatedText: setParentTranslation }) => {
   const [isRecording, setIsRecording] = useState(false);
@@ -99,14 +100,9 @@ const LiveRecording = ({ setRawTranscript: setParentRaw, setCorrectedTranscript:
     }
 
     try {
-      const response = await fetch('http://localhost:5000/api/live', {
-        method: 'POST',
-        body: formData,
-      });
+      const data = await startLiveRecording(formData);
 
-      const data = await response.json();
-
-      if (response.ok && data.success) {
+      if (data.success) {
         // Set transcript locally for display
         setTranscript(data.corrected_text || data.text);
         setDetectedLanguage(data.language);
@@ -123,7 +119,7 @@ const LiveRecording = ({ setRawTranscript: setParentRaw, setCorrectedTranscript:
         setError(data.error || 'Failed to transcribe recording');
       }
     } catch (err) {
-      setError('Failed to connect to the server. Make sure the backend is running on port 5000.');
+      setError(err.error || 'Failed to connect to the server. Make sure the backend is running.');
       console.error('Upload error:', err);
     } finally {
       setIsProcessing(false);

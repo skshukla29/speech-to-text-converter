@@ -3,6 +3,7 @@ import { ThemeProvider } from './context/ThemeContext';
 import Sidebar from './components/Sidebar';
 import AudioUpload from './components/AudioUpload';
 import LiveRecording from './components/LiveRecording';
+import { translateTranscript } from './api';
 import './App.css';
 
 function App() {
@@ -35,19 +36,11 @@ function App() {
 
     setIsTranslating(true);
     try {
-      const response = await fetch('http://localhost:5000/api/translate', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          text: textToTranslate,
-          source_lang: detectedLanguage || 'auto',
-          target_lang: targetLang,
-        }),
+      const data = await translateTranscript({
+        text: textToTranslate,
+        source_lang: detectedLanguage || 'auto',
+        target_lang: targetLang,
       });
-
-      const data = await response.json();
 
       if (data.success) {
         setTranslatedText(data.translated_text);
@@ -56,7 +49,7 @@ function App() {
       }
     } catch (error) {
       console.error('Translation error:', error);
-      alert('Failed to translate. Please check your connection.');
+      alert(error.error || 'Failed to translate. Please check your connection.');
     } finally {
       setIsTranslating(false);
     }

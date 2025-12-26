@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './AudioUpload.css';
+import { uploadAudio } from '../api';
 
 const AudioUpload = ({ setRawTranscript: setParentRaw, setCorrectedTranscript: setParentCorrected, setDetectedLanguage: setParentLanguage, setTranslatedText: setParentTranslation }) => {
   const [file, setFile] = useState(null);
@@ -79,14 +80,9 @@ const AudioUpload = ({ setRawTranscript: setParentRaw, setCorrectedTranscript: s
     }
 
     try {
-      const response = await fetch('http://localhost:5000/api/transcribe', {
-        method: 'POST',
-        body: formData,
-      });
+      const data = await uploadAudio(formData);
 
-      const data = await response.json();
-
-      if (response.ok && data.success) {
+      if (data.success) {
         // Set transcript locally for display
         setTranscript(data.corrected_text || data.text);
         setDetectedLanguage(data.language);
@@ -103,7 +99,7 @@ const AudioUpload = ({ setRawTranscript: setParentRaw, setCorrectedTranscript: s
         setError(data.error || 'Failed to transcribe audio');
       }
     } catch (err) {
-      setError('Failed to connect to the server. Make sure the backend is running on port 5000.');
+      setError(err.error || 'Failed to connect to the server. Make sure the backend is running.');
       console.error('Upload error:', err);
     } finally {
       setLoading(false);
